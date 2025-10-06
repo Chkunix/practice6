@@ -1,0 +1,78 @@
+body    {
+    background-color: grey;
+    padding-top: 200px;
+}
+.product-card    {
+    padding-left: 200px;
+    margin-left: 300px;
+    padding-left: 170px;
+    margin-left: 70px;
+    padding-left: 0px;
+    padding-top: -40px;
+}
+.product-name    {
+    padding-left: 200px;
+    margin-left: 300px;
+    padding-left: 170px;
+    margin-left: 70px;
+    padding-left: 0px;
+    padding-top: -300px;
+    margin-top: -30px;
+}
+.price    {
+    position: absolute;
+    padding-left: 40px;
+    margin-left: 600px;
+    border: 2px solid white;
+    border-radius: 10%;
+    width: 200px;
+    padding-left: 100px;
+    padding-right: 50px;
+    margin-top: -320px;
+    font-size: 20px;
+}
+.buy-button    {
+    padding-left: 200px;
+    margin-left: 500px;
+    margin-top: -170px;
+    margin-top: -140px;
+}
+img    {
+    border: 3px solid white;
+    border-radius: 15%;
+    width: 300px;
+}
+.container {
+   background-color: lightgrey;
+    padding: 50px;
+    margin: -150px auto;
+    border: 5px solid black;
+    border-radius: 25px;
+    width: 600px;
+    height: 600px;
+    padding-right: 400px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.buy-now {
+    position: absolute;
+    padding-right: 40px;
+    margin-left: 600px;
+    border: 2px solid white;
+    border-radius: 10%;
+    width: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: -600px;
+    font-size: 50px;
+}
+button:hover   {
+    background-color: darkgoldenrod;
+    font-size: 30px;
+    color:white;
+}
+.buy-button button {
+    font-size: 24px;
+    padding: 15px 40px;
+    border-radius: 10%;
+}
